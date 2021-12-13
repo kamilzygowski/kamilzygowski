@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
-### Space cat wishes you good day
+<!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
+### Space cat wishes you good day-->
 <!--
 **swedishsailor/swedishsailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
