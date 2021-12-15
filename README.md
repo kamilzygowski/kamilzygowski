@@ -1,4 +1,4 @@
-# Hello!  ( •̀ ω •́ )y
+# Hello!  ( •̀ ω •́ )
 
 📙 To know me better visit - https://swedishsailor.github.io/
 
