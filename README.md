@@ -1,4 +1,4 @@
-# Hiho! ![alt text](https://i.postimg.cc/Nf5BWP0D/Basil-scared.gif)
+# Hiho!                     ![alt text](https://i.postimg.cc/Pr9pcDdL/small-scared-basil.gif)
 
 📙 To know me better visit - https://swedishsailor.github.io/
 
