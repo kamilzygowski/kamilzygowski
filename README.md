@@ -1,4 +1,4 @@
-![alt text](https://i.postimg.cc/Pr9pcDdL/small-scared-basil.gif) # Hello!![alt text](https://i.postimg.cc/Pr9pcDdL/small-scared-basil.gif)
+# Hello!
 
 📙 To know me better visit - https://swedishsailor.github.io/
 
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![alt text](https://i.postimg.cc/Pr9pcDdL/small-scared-basil.gif)
 -->
