@@ -3,7 +3,7 @@
 📙 To know me better visit - https://swedishsailor.github.io/
 
 ---
-🌙 I love **writing** and **learning**, check my blog to see my inside world - <link soon>
+🌙 I love **writing** and **learning**, check my blog to see my inside world - link soon
 
 ---
 🏹 I love juggling, especially **diabolo** and **yoyo**
