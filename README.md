@@ -1,10 +1,10 @@
-### Hiho!
+# Hiho!
 📙 To know me better visit - https://swedishsailor.github.io/
-
-🌙 I love writing and learning, check my blog to see my inside world - <link soon>
-
-🏹 I love juggling, especially diabolo and yoyo
-
+---
+🌙 I love **writing** and **learning**, check my blog to see my inside world - <link soon>
+---
+🏹 I love juggling, especially **diabolo** and **yoyo**
+---
 <!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
 ### Space cat wishes you good day-->
 <!--
