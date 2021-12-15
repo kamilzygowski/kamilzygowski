@@ -1,4 +1,4 @@
-# Hiho!
+# Hiho! ![alt text](https://i.postimg.cc/Nf5BWP0D/Basil-scared.gif)
 
 📙 To know me better visit - https://swedishsailor.github.io/
 
@@ -9,7 +9,6 @@
 🏹 I love juggling, especially **diabolo** and **yoyo**
 
 ---
-![alt text](https://i.postimg.cc/Nf5BWP0D/Basil-scared.gif)
 <!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
 ### Space cat wishes you good day-->
 <!--
