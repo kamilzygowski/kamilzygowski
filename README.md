@@ -6,7 +6,7 @@
 🌙 I love **writing** and **learning**, check my blog to see my inside world - https://deepintopic.pl/
 
 ---
-🏹 I love juggling, especially **diabolo** and **yoyo**
+🏹 I love juggling, especially **diabolo** and **yoyo** - link soon
 
 <!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
 ### Space cat wishes you good day-->
