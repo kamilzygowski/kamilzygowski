@@ -6,7 +6,7 @@
 🌙 I love **writing** and **learning**, check my blog to see my inside world - https://deepintopic.pl/
 
 ---
-🥝 Hungry? Checkout my "SpicyBook" site, where you can find 1001 recipes - https://swedishsailor.github.io/spicybook/
+🥝 Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/
 
 ---
 🏹 I love juggling, especially **diabolo** and **yoyo** - link soon
