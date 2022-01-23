@@ -8,8 +8,7 @@
 ---
 🍉  Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/
 
----
-🧶  I love juggling, especially **diabolo** and **yoyo** - link soon
+<!--🧶  I love juggling, especially **diabolo** and **yoyo** - link soon-->
 
 <!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
 ### Space cat wishes you good day-->
