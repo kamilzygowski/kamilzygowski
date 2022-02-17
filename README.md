@@ -8,14 +8,16 @@
 ---
 🍉  Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/ - in progress
 
----
-❓ Let's test your knowledge with some **quizes** - https://swedishsailor.github.io/quiz/ - in progress
 
 <!--🧶  I love juggling, especially **diabolo** and **yoyo** - link soon-->
 
 <!--![Image Title](https://i.postimg.cc/VkcGdDQ6/skykicia-kopia.png)
 ### Space cat wishes you good day-->
-<!--
+<!-- 
+
+---
+❓ Let's test your knowledge with some **quizes** - https://swedishsailor.github.io/quiz/ - in progress
+
 **swedishsailor/swedishsailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
