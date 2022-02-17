@@ -7,7 +7,9 @@
 
 ---
 🍉  Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/ - in progress
+---
 
+🎮  Mouse Sabre is a pure dexterity game < DON'T FORGET TO USE RIGHT MOUSE CLICK SKILL > - https://swedishsailor.github.io/mousesabre/
 
 <!--🧶  I love juggling, especially **diabolo** and **yoyo** - link soon-->
 
