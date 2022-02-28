@@ -6,9 +6,6 @@
 📘  I love **writing** and **learning**, check my blog to see my inside world - https://deepintopic.pl/
 
 ---
-🍉  Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/ - in progress
-
----
 🎮  Mouse Sabre is a pure dexterity game <don't forget to use right mouse click skill> - https://swedishsailor.github.io/mousesabre/
 
 <!--🧶  I love juggling, especially **diabolo** and **yoyo** - link soon-->
@@ -19,6 +16,9 @@
 
 ---
 ❓ Let's test your knowledge with some **quizes** - https://swedishsailor.github.io/quiz/ - in progress
+
+---
+🍉  Hungry? Check out my "**SpicyBook**" site, where you can find **1001** recipes - https://swedishsailor.github.io/spicybook/ - in progress
 
 **swedishsailor/swedishsailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
