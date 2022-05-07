@@ -1,10 +1,10 @@
 # Hiho! 🌚
--
+
 🙋‍  To know me better visit - https://swedishsailor.github.io/
---
+
 
 📘  I love **writing** and **learning**, check my blog to see my inside world - https://deepintopic.pl/
---
+
 
 🎮  Mouse Sabre is a pure dexterity game <don't forget to use right mouse click skill> - https://swedishsailor.github.io/mousesabre/
 
