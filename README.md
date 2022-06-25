@@ -22,7 +22,6 @@ I love the entire process of creative thinking. You start with just one desire -
 -->
 ## 🌱 I'm currently learning
 
-- Python
 - WebGL
 - ReactNative
 
