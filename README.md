@@ -32,6 +32,8 @@ I love the entire process of creative thinking. You start with just one desire -
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=1e3799)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=f6b93b)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=48dbfb)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=341f97)
 
 </br>
 
