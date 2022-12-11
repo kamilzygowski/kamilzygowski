@@ -1,13 +1,13 @@
+<h3 align="center">
+Hello there, I'm<a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"> Kamil </a> 👋
+</h3>
 <p align="center">
+  <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img width=220 src="https://i.postimg.cc/Vsph56Vq/basil-basil-omori.gif" alt="my banner">
   </a>
 </p>
-<a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/wBLrhV89/basil-omori.gif" alt="my banner">
-<h3 align="center">
-Hi there, I'm <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer">Kamil</a> 👋
-</h3>
 
 <h2 align="center">
-I'm a FrontEnd Developer and Psychologist!
+I'm a FrontEnd Developer and Psychologist
 </h2> 
 
 I love the entire process of creative thinking. You start with just one desire - to make something you have in your head. Then every second your brain is attacked by enormous waves of ideas.
@@ -23,7 +23,7 @@ I love the entire process of creative thinking. You start with just one desire -
 ## 🌱 I'm currently learning
 
 - WebGL
-- ReactNative
+- Ruby
 
 ## 💼 Technical Skills
 
@@ -34,6 +34,7 @@ I love the entire process of creative thinking. You start with just one desire -
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=48dbfb)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=341f97)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&color=00FF00)
 
 </br>
 
@@ -48,6 +49,7 @@ I love the entire process of creative thinking. You start with just one desire -
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&color=dcdde1)
 
 <!--
 
