@@ -1,7 +1,7 @@
 <p align="center">
   </a>
 </p>
-<a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img src="[https://i.postimg.cc/SKzjJv35/Kamil-ygowski-1.png](https://i.postimg.cc/wBLrhV89/basil-omori.gif)" alt="my banner">
+<a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/wBLrhV89/basil-omori.gif" alt="my banner">
 <h3 align="center">
 Hi there, I'm <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer">Kamil</a> 👋
 </h3>
