@@ -1,14 +1,26 @@
-<h3 align="center">
-Hello there, My name is <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"> Kamil </a> 
-</h3>
-<p align="center">
-  <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img width=220 src="https://i.postimg.cc/Vsph56Vq/basil-basil-omori.gif" alt="my banner">
-  </a>
-</p>
+ <br/>
+ <img height="auto" align="right" width="240" src="https://i.postimg.cc/Vsph56Vq/basil-basil-omori.gif" alt="my banner"/>
+<div id="user-content-toc"  align="center">
+  <ul>
+    <summary>
+      <h1 style="display: inline-block;">Hello there, my name is <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"> Kamil </a></h1>     </summary>
+  </ul>
+</div>
+<br/>
 
+<!--
 <h2 align="center">
-I'm interested in Web/Mobile | AI | Software development
+I'm interested in 
 </h2> 
+-->
+
+## ✨ I'm interested in
+
+- **Web**/**Mobile**
+- **AI**
+- **Game Dev**
+- **Software Dev**
+
 <!--
 I love the entire process of creative thinking. You start with just one desire - to make something you have in your head. Then every second your brain is attacked by enormous waves of ideas.
 
@@ -22,10 +34,11 @@ I love the entire process of creative thinking. You start with just one desire -
 -->
 ## 🌱 I'm currently learning
 
-- WebGL
-- Ruby
+- **WebGL**
+- **Ruby**
 
-## 💼 Technical Skills
+## 💼 Technical skills
+<br/>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
