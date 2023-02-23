@@ -1,5 +1,5 @@
 <h3 align="center">
-Hello there, I'm<a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"> Kamil </a> 👋
+Hello there, My name is <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"> Kamil </a> 
 </h3>
 <p align="center">
   <a href="https://swedishsailor.github.io/portfolio/" target="_blank" rel="noreferrer"><img width=220 src="https://i.postimg.cc/Vsph56Vq/basil-basil-omori.gif" alt="my banner">
@@ -7,12 +7,12 @@ Hello there, I'm<a href="https://swedishsailor.github.io/portfolio/" target="_bl
 </p>
 
 <h2 align="center">
-I'm a FrontEnd Developer and Psychologist
+I'm interested in Web/Mobile | AI | Software development
 </h2> 
-
+<!--
 I love the entire process of creative thinking. You start with just one desire - to make something you have in your head. Then every second your brain is attacked by enormous waves of ideas.
 
-<!--
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
