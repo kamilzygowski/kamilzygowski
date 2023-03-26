@@ -1,5 +1,5 @@
  <br/>
- <img height="auto" align="right" width="240" src="https://i.postimg.cc/Vsph56Vq/basil-basil-omori.gif" alt="my banner"/>
+ <img height="auto" align="right" width="240" src="https://i.postimg.cc/cHd6btBr/basil-basil-omori.gif" alt="my banner"/>
 <div id="user-content-toc"  align="center">
   <ul>
     <summary>
@@ -35,19 +35,19 @@ I love the entire process of creative thinking. You start with just one desire -
 ## 🌱 I'm currently learning
 
 - **WebGL**
-- **Ruby**
+- **Rust**
 
 ## 💼 Technical skills
 <br/>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=1e3799)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=f6b93b)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=48dbfb)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=341f97)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&color=00FF00)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=341f97)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=48dbfb)
 
 </br>
 
@@ -58,7 +58,8 @@ I love the entire process of creative thinking. You start with just one desire -
 
 </br>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+<!--![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)-->
+![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&color=dcdde1)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
