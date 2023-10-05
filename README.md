@@ -59,12 +59,10 @@ I love the entire process of creative thinking. You start with just one desire -
 
 <br/>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=1e3799)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=Nextdotjs&color=ffffff)
 ![](https://img.shields.io/badge/Code-ThreeJS-informational?style=flat&logo=Threedotjs&color=DB7093)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=341f97)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=48dbfb)
 
@@ -79,10 +77,11 @@ I love the entire process of creative thinking. You start with just one desire -
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&color=ffffff)
 ![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=Nestjs&color=ee5253)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go)
 
 </br>
 
-**Styles**
+<!--**Styles**
 
 <br/>
 
@@ -90,23 +89,27 @@ I love the entire process of creative thinking. You start with just one desire -
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
-</br>
+</br>-->
 
 **Tools**
 
 <br/>
 
-<!--![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)-->
 ![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=Prisma&color=ffffff)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=Postgresql&color=1572B6)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=1e3799)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=ff9f43)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&color=00d2d3)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&color=dcdde1)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&color=dcdde1)
+
+<!--![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)-->
+<!--![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)-->
+<!--![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)-->
+<!--![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)-->
+<!--![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)-->
+<!--![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=ff9f43)-->
+<!--![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)-->
+
 
 <!--
 
